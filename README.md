@@ -34,8 +34,4 @@ docker run --rm -it -p 80:80 \
 * User: houdadh
 * Pass: Helloearth1234
 
-## 5 Autoindex (ENV)
-
-### OFF
-
 ```
